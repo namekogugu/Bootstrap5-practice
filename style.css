@@ -1,0 +1,24 @@
+.path{
+    background-color: #ccc;
+}
+
+
+.nav-item:hover {
+    background-color: red;
+
+}
+
+.dropdown-menu{
+    background-color: pink;
+}
+
+h3  {
+    text-align: center;
+}
+
+.main-footer {
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
